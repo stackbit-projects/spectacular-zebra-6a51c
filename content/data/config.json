@@ -152,5 +152,6 @@
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
-    }
+    },
+    "domain": "https://spectacular-zebra-6a51c.netlify.app"
 }
